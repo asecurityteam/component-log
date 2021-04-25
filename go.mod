@@ -8,5 +8,5 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-yaml/yaml v2.1.0+incompatible // indirect
 	github.com/spf13/cast v1.3.0 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.7.0
 )
