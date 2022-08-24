@@ -1,6 +1,6 @@
 module github.com/asecurityteam/component-log
 
-go 1.12
+go 1.19
 
 require (
 	github.com/asecurityteam/logevent v1.6.1
