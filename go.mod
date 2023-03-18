@@ -8,5 +8,5 @@ require (
 	github.com/justinas/alice v1.2.0 // indirect
 	github.com/rs/cors v1.8.2 // indirect
 	github.com/sergi/go-diff v1.2.0 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 )
