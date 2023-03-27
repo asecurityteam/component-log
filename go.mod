@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/asecurityteam/logevent v1.6.1
 	github.com/asecurityteam/settings v0.7.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.2
 )
 
 require (
