@@ -1,8 +1,6 @@
 <a id="markdown-component-log---settings-component-for-generating-a-log-client" name="component-log---settings-component-for-generating-a-log-client"></a>
 # component-log - Settings component for generating a log client
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-log?status.svg)](https://godoc.org/github.com/asecurityteam/component-log)
-[![Build Status](https://travis-ci.com/asecurityteam/component-log.png?branch=master)](https://travis-ci.com/asecurityteam/component-log)
-[![codecov.io](https://codecov.io/github/asecurityteam/component-log/coverage.svg?branch=master)](https://codecov.io/github/asecurityteam/component-log?branch=master)
 <!-- TOC -->
 
 - [component-log - Settings component for generating a log client](#component-log---settings-component-for-generating-a-log-client)
