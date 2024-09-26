@@ -1,7 +1,6 @@
 # component-log - Settings component for generating a log client
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-log?status.svg)](https://godoc.org/github.com/asecurityteam/component-log)
 [![Build Status](https://travis-ci.com/asecurityteam/component-log.png?branch=master)](https://travis-ci.com/asecurityteam/component-log)
-[![codecov.io](https://codecov.io/github/asecurityteam/component-log/coverage.svg?branch=master)](https://codecov.io/github/asecurityteam/component-log?branch=master)
 <!-- TOC -->autoauto- [component-log - Settings component for generating a log client](#component-log---settings-component-for-generating-a-log-client)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
 ## Overview
