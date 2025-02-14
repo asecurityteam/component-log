@@ -1,5 +1,19 @@
 # component-log - Settings component for generating a log client
 [![GoDoc](https://godoc.org/github.com/asecurityteam/component-log?status.svg)](https://godoc.org/github.com/asecurityteam/component-log)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=bugs)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=code_smells)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=coverage)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=ncloc)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=alert_status)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=security_rating)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=sqale_index)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=asecurityteam_component-log&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=asecurityteam_component-log)
+
+
 <!-- TOC -->autoauto- [component-log - Settings component for generating a log client](#component-log---settings-component-for-generating-a-log-client)auto    - [Overview](#overview)auto    - [Quick Start](#quick-start)auto    - [Status](#status)auto    - [Contributing](#contributing)auto        - [Building And Testing](#building-and-testing)auto        - [License](#license)auto        - [Contributing Agreement](#contributing-agreement)autoauto<!-- /TOC -->
 
 ## Overview
