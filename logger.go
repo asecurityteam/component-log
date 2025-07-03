@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/asecurityteam/logevent/v2"
-	"github.com/asecurityteam/settings/v2"
+	logevent "github.com/asecurityteam/logevent/v2"
+	settings "github.com/asecurityteam/settings/v2"
 )
 
 const (
