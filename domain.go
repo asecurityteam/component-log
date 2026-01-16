@@ -3,7 +3,7 @@ package log
 import (
 	"context"
 
-	"github.com/asecurityteam/logevent/v2"
+	logevent "github.com/asecurityteam/logevent/v2"
 )
 
 // Logger is the project logging client interface. It is
